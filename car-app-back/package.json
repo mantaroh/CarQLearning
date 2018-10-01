@@ -1,0 +1,14 @@
+{
+  "name": "car-app-back",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mantaroh Yoshinaga",
+  "license": "MIT",
+  "dependencies": {
+    "bluetooth-obd": "^0.2.4",
+    "ws": "^6.0.0"
+  }
+}
