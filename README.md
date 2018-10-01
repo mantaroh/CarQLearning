@@ -18,3 +18,8 @@ Target environment is Linux(Maybe, raspbian).
 # T.B.D
 
  See the wiki.
+
+# Sample
+
+ * Speed meter from OBD2 connector
+ ![Image of Speed meter](https://github.com/mantaroh-y/CarQLearning/blob/master/images/speedmeter.gif)
