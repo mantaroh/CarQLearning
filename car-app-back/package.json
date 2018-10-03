@@ -8,7 +8,7 @@
   "author": "Mantaroh Yoshinaga",
   "license": "MIT",
   "dependencies": {
-    "bluetooth-obd": "^0.2.4",
+    "serial-obd": "^0.2.2",
     "ws": "^6.0.0"
   }
 }
