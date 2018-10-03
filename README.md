@@ -19,7 +19,7 @@ Target environment is Linux(Maybe, raspbian).
 
 # T.B.D
 
- See the [wiki](../wiki).
+ See the [wiki](../../wiki).
 
 # Sample
 
